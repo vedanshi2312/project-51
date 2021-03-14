@@ -1,0 +1,19 @@
+h1{
+    color: magenta;    
+}
+.header{
+    border: solid;
+    background-color: mediumspringgreen;
+    display: flex;
+    justify-content: space-between; 
+}
+.grade{
+    display: flex;
+    flex-wrap: wrap;
+}
+body{
+    background: lightblue;
+}
+
+
+
